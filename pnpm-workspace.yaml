@@ -1,0 +1,16 @@
+packages:
+  - packages/*
+  - slides/*
+  - playground
+
+catalog:
+  '@antfu/eslint-config': ^4.16.1
+  '@slidev/cli': ^51.8.2
+  '@slidev/client': ^51.8.2
+  '@slidev/theme-default': ^0.25.0
+  '@slidev/theme-seriph': ^0.25.0
+
+onlyBuiltDependencies:
+  - '@parcel/watcher'
+  - esbuild
+  - playwright-chromium

@@ -1,0 +1,29 @@
+{
+  "name": "@yuumi/slides",
+  "type": "module",
+  "private": true,
+  "packageManager": "pnpm@10.12.2",
+  "scripts": {
+    "build": "rimraf dist && pnpm -r run build",
+    "postbuild": "tsx scripts/postbuild.ts",
+    "dev": "tsx scripts/picker.ts dev --open",
+    "typecheck": "vue-tsc --noEmit",
+    "lint": "eslint .",
+    "update": "tsx scripts/redirects.ts"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "catalog:",
+    "@slidev/cli": "catalog:",
+    "@slidev/client": "catalog:",
+    "@slidev/theme-default": "catalog:",
+    "@slidev/theme-seriph": "latest",
+    "eslint": "^9.29.0",
+    "eslint-plugin-format": "^1.0.1",
+    "playwright-chromium": "^1.53.1",
+    "prettier-plugin-slidev": "^1.0.5",
+    "rimraf": "^6.0.1",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3",
+    "vue-tsc": "^2.2.10"
+  }
+}
