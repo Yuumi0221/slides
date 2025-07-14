@@ -4,7 +4,8 @@
   "private": true,
   "packageManager": "pnpm@10.12.2",
   "scripts": {
-    "build": "rimraf dist && pnpm -r run build",
+    "build": "rimraf dist && pnpm -r run build && npm run build:slides",
+    "build:slides": "pnpm -r --parallet --filter './slides/**' build",
     "postbuild": "tsx scripts/postbuild.ts",
     "dev": "tsx scripts/picker.ts dev --open",
     "typecheck": "vue-tsc --noEmit",
