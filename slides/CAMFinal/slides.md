@@ -47,7 +47,7 @@ transition: slide-up
 
 <iframe id="graph1"
 	title="graph1"
-	src="https://cdn.yuumi.link/slides/CAMFinal/CAMvideo.mp4" 
+	src="/videos/CAMvideo.mp4" 
 	height="430px"
 	width="100%"
 	scrolling="auto" 
@@ -63,7 +63,7 @@ transition: slide-left
 
 #### 模型基础显示
 
-![model](https://cdn.yuumi.link/slides/CAMFinal/model1.png)
+![model](/images/model1.png)
 
 ---
 transition: slide-up
@@ -296,7 +296,7 @@ transition: slide-up
 
 欧拉角
 
-![欧拉角](https://cdn.yuumi.link/slides/CAMFinal/euler1.png)
+![欧拉角](/images/euler1.png)
 
 ---
 transition: slide-up
@@ -329,7 +329,7 @@ transition: slide-left
 
 #### 模型切片效果
 
-![clip](https://cdn.yuumi.link/slides/CAMFinal/clip.png)
+![clip](/images/clip.png)
 
 ---
 transition: slide-up
