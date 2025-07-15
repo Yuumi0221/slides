@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "public": true,
+  "public": "public",
   "cleanUrls": true,
   "rewrites": 
   [
@@ -8,5 +8,5 @@
         "source": "/(.*)", 
         "destination": "/index.html" 
     }
-]
+  ]
 }
