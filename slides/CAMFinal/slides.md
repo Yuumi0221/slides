@@ -45,7 +45,10 @@ transition: slide-up
 
 <a></a>
 
-<video src="/videos/CAMvideo.mp4" class="rounded-lg shadow-lg" />
+<video src="/videos/CAMvideo.mp4" 
+    autoplay
+    class="rounded-lg shadow-lg" 
+    width="750" />
 
 <!-- <iframe id="graph1"
 	title="graph1"
