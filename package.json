@@ -4,7 +4,6 @@
   "private": true,
   "packageManager": "pnpm@10.12.2",
   "scripts": {
-    "build": "pnpm run --workspace-root build",
     "postbuild": "tsx scripts/postbuild.ts",
     "dev": "tsx scripts/picker.ts dev --open",
     "typecheck": "vue-tsc --noEmit",
