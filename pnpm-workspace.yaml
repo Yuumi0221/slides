@@ -1,7 +1,6 @@
 packages:
   - packages/*
   - slides/*
-  - playground
 
 catalog:
   '@antfu/eslint-config': ^4.16.1
