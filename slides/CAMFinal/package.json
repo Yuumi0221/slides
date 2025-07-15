@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build --base /slidev-test/ --out ../../dist/slidev-test",
+    "build": "slidev build --base /CAMFinal/ --out ../../dist/CAMFinal",
     "dev": "slidev --open",
     "export": "slidev export"
   },
