@@ -1,0 +1,23 @@
+{
+  "name": "2025-tencent-open-source-talent",
+  "type": "module",
+  "private": true,
+  "description": "Slides for the 2025 Tencent Open Source Talent Plan",
+  "scripts": {
+    "build": "rimraf dist && npm run build:main && npm run build:v1",
+    "build:main": "slidev build --base /2025-tencent-open-source-talent/ --out ../../dist/2025-tencent-open-source-talent",
+    "build:v1": "slidev build v1.md --base /2025-tencent-open-source-talent/v1/ --out ../../dist/2025-tencent-open-source-talent/v1",
+    "dev": "slidev --open",
+    "dev:v1": "slidev v1.md --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^51.8.2",
+    "@slidev/theme-default": "latest",
+    "vue": "^3.5.17"
+  },
+  "devDependencies": {
+    "@iconify-json/ri": "^1.2.5",
+    "sass": "^1.89.2"
+  }
+}
