@@ -45,7 +45,9 @@ transition: slide-up
 
 <a></a>
 
-<iframe id="graph1"
+<video src="/videos/CAMvideo.mp4" class="rounded-lg shadow-lg" />
+
+<!-- <iframe id="graph1"
 	title="graph1"
 	src="/videos/CAMvideo.mp4" 
 	height="430px"
@@ -53,7 +55,7 @@ transition: slide-up
 	scrolling="auto" 
 	frameborder="0" 
 	style="box-shadow: 0px 0px 20px -10px #888;">
-</iframe>
+</iframe> -->
 
 ---
 transition: slide-left
