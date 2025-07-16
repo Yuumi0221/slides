@@ -3,7 +3,7 @@ packages:
   - slides/*
 
 catalog:
-  '@antfu/eslint-config': ^4.16.1
+  '@antfu/eslint-config': ^4.17.0
   '@slidev/cli': ^51.8.2
   '@slidev/client': ^51.8.2
   '@slidev/theme-default': ^0.25.0
