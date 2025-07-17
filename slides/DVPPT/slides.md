@@ -98,7 +98,7 @@ transition: slide-up
 <iframe 
     id="graph1"
     title="graph1"
-    src="/html/Analysis/1year.html"
+    src="/DVPPT/html/Analysis/1year.html"
 	height="500px"
     width="100%" 
     frameborder="0" 
@@ -112,7 +112,7 @@ transition: slide-up
 
 <iframe id="graph2"
 	title="graph2"
-	src="/html/Analysis/2month.html" 
+	src="/DVPPT/html/Analysis/2month.html" 
 	height="500px" 
 	width="100%" 
 	scrolling="no"
@@ -126,7 +126,7 @@ transition: slide-up
 
 <iframe id="graph3"
 	title="graph3"
-	src="/html/Analysis/3hour1.html" 
+	src="/DVPPT/html/Analysis/3hour1.html" 
 	height="500px" 
 	width="100%" 
 	scrolling="no"
@@ -140,7 +140,7 @@ transition: slide-up
 
 <iframe id="graph4"
 	title="graph4"
-	src="/html/Analysis/4hour2.html" 
+	src="/DVPPT/html/Analysis/4hour2.html" 
 	height="500px" 
 	width="100%" 
 	scrolling="no" 
@@ -154,7 +154,7 @@ transition: slide-left
 
 <iframe id="graph5"
 	title="graph5"
-	src="/html/Analysis/5type.html" 
+	src="/DVPPT/html/Analysis/5type.html" 
 	height="500px" 
 	width="100%" 
 	scrolling="no" 
@@ -179,7 +179,7 @@ transition: slide-up
 
 <iframe id="graph6"
 	title="graph6"
-	src="/html/Analysis/6average_week_day.html" 
+	src="/DVPPT/html/Analysis/6average_week_day.html" 
 	height="500px" 
 	width="100%" 
 	scrolling="no" 
@@ -193,7 +193,7 @@ transition: slide-up
 
 <iframe id="graph7"
 	title="graph7"
-	src="/html/Analysis/7type_week_day1.html" 
+	src="/DVPPT/html/Analysis/7type_week_day1.html" 
 	height="500px" 
 	width="100%" 
 	scrolling="no" 
@@ -207,7 +207,7 @@ transition: slide-left
 
 <iframe id="graph8"
 	title="graph8"
-	src="/html/Analysis/8type_week_day2.html" 
+	src="/DVPPT/html/Analysis/8type_week_day2.html" 
 	height="500px" 
 	width="100%" 
 	scrolling="no" 
@@ -244,7 +244,7 @@ transition: slide-up
 
 <iframe id="graph9"
 	title="graph9"
-	src="/html/Analysis/10trip_interval1.html" 
+	src="/DVPPT/html/Analysis/10trip_interval1.html" 
 	height="500px" 
 	width="100%" 
 	scrolling="no" 
@@ -258,7 +258,7 @@ transition: slide-up
 
 <iframe id="graph10"
 	title="graph10"
-	src="/html/Analysis/11trip_interval2.html" 
+	src="/DVPPT/html/Analysis/11trip_interval2.html" 
 	height="500px" 
 	width="100%" 
 	scrolling="no" 
@@ -272,7 +272,7 @@ transition: fade-out
 
 <iframe id="graph11"
 	title="graph11"
-	src="/html/Analysis/12trip_comp.html" 
+	src="/DVPPT/html/Analysis/12trip_comp.html" 
 	height="500px" 
 	width="100%" 
 	scrolling="no" 
