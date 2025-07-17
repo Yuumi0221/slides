@@ -19,7 +19,7 @@ transition: slide-up
 
 <iframe id="graph12"
 	title="graph12"
-    src="/html/heatMap/index.html"
+    src="/DVPPT/html/heatMap/index.html"
 	height="500px" 
 	width="100%" 
 	scrolling="no" 
@@ -53,7 +53,7 @@ transition: slide-up
 
 <iframe id="graph12"
 	title="graph12"
-    src="/html/hour_1/index.html"
+    src="/DVPPT/html/hour_1/index.html"
 	height="430px" 
 	width="100%" 
 	scrolling="no" 
@@ -123,7 +123,7 @@ transition: fade-out
 
 <iframe id="graph12"
 	title="graph12"
-    src="/html/hour_2/index.html"
+    src="/DVPPT/html/hour_2/index.html"
 	height="500px" 
 	width="100%" 
 	scrolling="auto" 

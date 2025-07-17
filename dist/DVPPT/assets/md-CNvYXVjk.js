@@ -1,9 +1,0 @@
-import{_ as r}from"./slidev/CodeBlockWrapper.vue_vue_type_script_setup_true_lang-asf0ZMoO.js";import{b as o,o as u,w as e,g as s,e as d,m,ad as a,v as _,x as f,T as l}from"./modules/vue-CxwNCnAv.js";import{I as c}from"./slidev/default-CyrPbDfd.js";import{u as I,f as k}from"./slidev/context-CLBMJUOi.js";import"./modules/unplugin-icons-BAHdTqZo.js";import"./index-BBcP0Klx.js";import"./modules/shiki-DFluXkH6.js";const v={__name:"slides.md__slidev_3",setup(A){const{$clicksContext:t,$frontmatter:i}=I();return t.setup(),(T,n)=>{const p=r;return u(),o(c,_(f(l(k)(l(i),2))),{default:e(()=>[n[1]||(n[1]=s("h2",null,"数据信息介绍",-1)),n[2]||(n[2]=s("p",null,"每个数据样本对应一个已完成的行程。",-1)),n[3]||(n[3]=s("p",null,"它总共包含9个属性，描述如下：",-1)),d(p,m({},{title:"",ranges:[]}),{default:e(()=>n[0]||(n[0]=[s("pre",{class:"shiki shiki-themes vitesse-dark vitesse-light slidev-code",style:{"--shiki-dark":"#dbd7caee","--shiki-light":"#393a34","--shiki-dark-bg":"#121212","--shiki-light-bg":"#ffffff"}},[s("code",{class:"language-text"},[s("span",{class:"line"},[s("span",null,"TRIP_ID：（字符串）每一次行程都有唯一的TRIP_ID标号，以用来区分。")]),a(`
-`),s("span",{class:"line"},[s("span",null,"CALL_TYPE：（字符）由A、B、C三类标识来区分打车形式。A: 由中心调度；B: 在特定站点直接打车；C: 其他类型。")]),a(`
-`),s("span",{class:"line"},[s("span",null,"ORIGIN_CALL：（整型）用来唯一标识此次行程消费者的电话号码。")]),a(`
-`),s("span",{class:"line"},[s("span",null,"ORIGIN_STAND：（整型）唯一标识出租车站点。")]),a(`
-`),s("span",{class:"line"},[s("span",null,"TAXI_ID：（整型）每一次行程中出租车司机的唯一标识。")]),a(`
-`),s("span",{class:"line"},[s("span",null,"TIMESTAMP：（整型）Unix 时间戳，标识行程的开始。")]),a(`
-`),s("span",{class:"line"},[s("span",null,"DAYTYPE：（字符）由A、B、C三类标识区别出租车行程的日期类型。A: 其他；B: 假期；C: 假期前一天。")]),a(`
-`),s("span",{class:"line"},[s("span",null,"MISSING_DATA：（布尔值）当POLYLINE中有一个或多个坐标丢失时，值为true，否则为false。")]),a(`
-`),s("span",{class:"line"},[s("span",null,"POLYLINE：（字符串）由坐标序列组成，起始坐标为出发点，结尾坐标为目的地。行程中每隔15秒记录一次坐标信息。")])])],-1)])),_:1,__:[0]},16)]),_:1,__:[1,2,3]},16)}}};export{v as default};

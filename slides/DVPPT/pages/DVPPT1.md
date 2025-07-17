@@ -72,7 +72,7 @@ transition: slide-up
 
 <iframe id="graph12"
 	title="graph12"
-    src="/html/Road/BeforeCleaning.html"
+    src="/DVPPT/html/Road/BeforeCleaning.html"
 	height="500px" 
 	width="100%" 
 	scrolling="no" 
@@ -205,7 +205,7 @@ transition: slide-left
 
 <iframe id="graph12"
 	title="graph12"
-    src="/html/Road/AfterCleaning.html"
+    src="/DVPPT/html/Road/AfterCleaning.html"
 	height="500px" 
 	width="100%" 
 	scrolling="no" 
