@@ -10,7 +10,7 @@ lineNumbers: true
 
 # Mesh网格模型切片
 
-### 陈佩佩
+### Yuumi
 
 ---
 transition: slide-up
