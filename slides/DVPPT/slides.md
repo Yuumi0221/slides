@@ -10,7 +10,7 @@ lineNumbers: true
 
 # 大数据可视化
 
-### Yuumi 吴元昊 沈溢鼎
+### Yuumi WYH SYD
 
 #### 按姓名首字母排序（假装严谨）
 
