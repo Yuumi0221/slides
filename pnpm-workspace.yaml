@@ -3,9 +3,9 @@ packages:
   - slides/*
 
 catalog:
-  '@antfu/eslint-config': ^4.17.0
-  '@slidev/cli': ^51.8.2
-  '@slidev/client': ^51.8.2
+  '@antfu/eslint-config': ^7.2.0
+  '@slidev/cli': ^52.11.5
+  '@slidev/client': ^52.11.5
   '@slidev/theme-default': ^0.25.0
   '@slidev/theme-seriph': ^0.25.0
 
