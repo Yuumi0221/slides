@@ -63,7 +63,7 @@ importers:
         specifier: ^3.2.4
         version: 3.2.4(typescript@5.9.3)
 
-  slides/slidev-new-test:
+  slides/slidev-example:
     dependencies:
       '@slidev/cli':
         specifier: ^52.11.5

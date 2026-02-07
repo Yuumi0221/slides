@@ -601,6 +601,11 @@ hide: false
 ---
 
 ---
+src: ./pages/example.md
+hide: false
+---
+
+---
 
 # Monaco Editor
 
